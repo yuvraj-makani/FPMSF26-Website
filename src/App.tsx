@@ -28,10 +28,10 @@ const ABOUT_PILLARS = [
 ];
 
 const TIMELINE = [
-  { date: "31 Aug 2026", title: "Abstract Submission", desc: "Deadline for abstract submissions" },
-  { date: "10 Sept 2026", title: "Acceptance Notification", desc: "Authors informed of acceptance" },
-  { date: "20 Sept 2026", title: "Registration Closes", desc: "Final date for delegate registration" },
-  { date: "30 Sept – 1 Oct 2026", title: "Conference Days", desc: "Two days of talks, posters & networking" },
+  { date: "15 Jan 2027", title: "Abstract Submission", desc: "Deadline for abstract submissions" },
+  { date: "20 Jan 2027", title: "Acceptance Notification", desc: "Authors informed of acceptance" },
+  { date: "31 Jan 2027", title: "Registration Closes", desc: "Final date for delegate registration" },
+  { date: "18 Feb – 19 Feb 2027", title: "Conference Days", desc: "Two days of talks, posters & networking" },
 ];
 
 const PRICING = [
@@ -67,10 +67,10 @@ function Home() {
           <div className="text-white animate-fade-up">
             <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full glass-dark text-xs font-medium tracking-wide mb-6">
               <span className="h-1.5 w-1.5 rounded-full bg-gold animate-pulse" />
-              30 September – 1 October 2026 · Hybrid
+              18 February – 19 February 2027 · Hybrid
             </div>
             <h1 className="font-display text-5xl sm:text-6xl lg:text-7xl font-bold leading-[1.05] tracking-tight">
-              FPMSF<span className="text-gold">'</span>26
+              FPMSF<span className="text-gold">'</span>27
             </h1>
             <p className="mt-5 text-lg sm:text-xl text-white/85 font-light max-w-2xl leading-relaxed">
               International Conference on <strong className="font-semibold">Functional Polymers and Membranes</strong> for a Sustainable Future
@@ -112,7 +112,7 @@ function Home() {
       {/* ABOUT */}
       <Section id="about" eyebrow="About" title="A confluence of science, sustainability & innovation">
         <p className="text-lg text-muted-foreground max-w-3xl leading-relaxed">
-          FPMSF'26 brings together the global community of polymer scientists, membrane technologists,
+          FPMSF'27 brings together the global community of polymer scientists, membrane technologists,
           chemical engineers and clean-energy researchers to address the most urgent challenges of our
           time — clean water, renewable energy, and a net-zero carbon future. The conference is hosted
           by the Department of Polymer and Process Engineering, IIT Roorkee Saharanpur Campus.
@@ -276,7 +276,7 @@ function Home() {
               apmmwe@pe.iitr.ac.in
             </a>
             <p className="mt-4 text-sm text-white/80">
-              Submissions close 31 August 2026. Selected abstracts will be considered for oral or poster presentation.
+              Submissions close 31 January 2027. Selected abstracts will be considered for oral or poster presentation.
             </p>
             <a href="https://forms.gle/SKP2WSGUtxA5f8Cx7" target="_blank" rel="noopener noreferrer" className="mt-6 inline-flex items-center gap-2 px-5 py-2.5 rounded-lg bg-white text-navy-deep text-sm font-semibold hover:bg-gold transition">
               <FileText size={14} /> Submit Abstract
@@ -434,13 +434,13 @@ function Home() {
             <div className="flex items-center gap-3">
               <div className="h-11 w-11 rounded-lg bg-accent-gradient grid place-items-center font-display font-bold">F</div>
               <div>
-                <div className="font-display font-bold text-lg">FPMSF'26</div>
+                <div className="font-display font-bold text-lg">FPMSF'27</div>
                 <div className="text-xs text-white/60">IIT Roorkee · Saharanpur Campus</div>
               </div>
             </div>
             <p className="mt-5 text-sm text-white/70 max-w-md leading-relaxed">
               International Conference on Functional Polymers and Membranes for a Sustainable Future —
-              bridging materials science with clean technologies, 30 Sept – 1 Oct 2026.
+              bridging materials science with clean technologies, 18 Feb – 19 Feb 2027.
             </p>
           </div>
           <FooterCol title="Quick Links" links={[["About", "#about"], ["Speakers", "#speakers"], ["Register", "#register"], ["Venue", "#venue"]]} />
@@ -448,7 +448,7 @@ function Home() {
         </div>
         <div className="border-t border-white/10">
           <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-5 flex flex-col sm:flex-row gap-3 justify-between text-xs text-white/60">
-            <div>© 2026 Department of Polymer and Process Engineering, IIT Roorkee. All rights reserved.</div>
+            <div>© 2027 Department of Polymer and Process Engineering, IIT Roorkee. All rights reserved.</div>
             <div>Indian Institute of Technology Roorkee · Saharanpur Campus</div>
           </div>
         </div>

@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const TARGET = new Date("2026-09-30T09:00:00+05:30").getTime();
+const TARGET = new Date("2027-02-18T09:00:00+05:30").getTime();
 
 export function Countdown() {
   const [now, setNow] = useState(() => Date.now());

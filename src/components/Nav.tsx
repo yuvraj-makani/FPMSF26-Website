@@ -34,7 +34,7 @@ export function Nav() {
           </div>
           <div className="min-w-0 leading-tight">
             <div className={`font-display font-bold truncate ${scrolled ? "text-navy-deep" : "text-white"}`}>
-              FPMSF'26
+              FPMSF'27
             </div>
             <div className={`text-[10px] truncate ${scrolled ? "text-muted-foreground" : "text-white/70"}`}>
               IIT Roorkee · Saharanpur

@@ -39,7 +39,7 @@ const PRICING = [
   { tier: "Research Scholar / Student", price: "₹4,000", note: "India", popular: true },
   { tier: "Industrial / Entrepreneur", price: "₹8,000", note: "India", popular: false },
   { tier: "Accompanying Guest", price: "₹3,000", note: "India", popular: false },
-  { tier: "Foreign Delegate", price: "$200", note: "International", popular: false },
+  { tier: "Academic / Faculty / Scientist & Foreign Delegate", price: "$200", note: "International", popular: false },
 ];
 
 const SPONSORS = [

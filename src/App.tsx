@@ -81,7 +81,6 @@ function Home() {
 
             <div className="mt-6 flex flex-wrap gap-x-6 gap-y-2 text-sm text-white/80">
               <span className="inline-flex items-center gap-2"><MapPin size={14} /> IIT Roorkee, Saharanpur Campus</span>
-              <span className="inline-flex items-center gap-2"><Globe2 size={14} /> Hybrid Conference</span>
             </div>
 
             <div className="mt-8 flex flex-wrap gap-3">

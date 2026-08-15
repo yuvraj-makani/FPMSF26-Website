@@ -209,7 +209,7 @@ function Home() {
       </Section>
 
       {/* COMMITTEES */}
-      <Section id="committees" eyebrow="Committees" title="The people behind FPMSF'26">
+      <Section id="committees" eyebrow="Committees" title="The people behind FPMSF'27">
         <CommitteeTabs />
       </Section>
 

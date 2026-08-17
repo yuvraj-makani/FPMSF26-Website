@@ -19,10 +19,10 @@ export default function App() {
 const ABOUT_PILLARS = [
   { icon: Droplets, title: "Clean Water", desc: "Advanced membranes for potable water & wastewater treatment." },
   { icon: Zap, title: "Renewable Energy", desc: "Functional materials for harvesting, conversion & storage." },
+  { icon: Layers, title: "Membrane Science", desc: "Next-generation separation & purification technologies." },
   { icon: Leaf, title: "Net Zero Carbon", desc: "Pathways to decarbonised industrial processes." },
   { icon: Recycle, title: "Circular Resources", desc: "Recyclable polymers & closed-loop material systems." },
   { icon: Atom, title: "Functional Polymers", desc: "Designer macromolecules for tomorrow's challenges." },
-  { icon: Layers, title: "Membrane Science", desc: "Next-generation separation & purification technologies." },
   { icon: FlaskConical, title: "Green Hydrogen", desc: "Electrocatalysts & systems for clean H₂ production." },
   { icon: Wind, title: "Environmental Remediation", desc: "Materials engineered to remove emerging contaminants." },
 ];

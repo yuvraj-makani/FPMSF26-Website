@@ -412,7 +412,7 @@ function Home() {
           <div className="rounded-2xl bg-card border border-border p-6">
             <Phone className="text-accent" size={22} />
             <div className="mt-3 text-xs uppercase tracking-widest text-muted-foreground">Phone</div>
-            <p className="mt-1 text-sm text-foreground">+91-132-271-4000</p>
+            <p className="mt-1 text-sm text-foreground">+91-9925125760</p>
           </div>
           <div className="rounded-2xl bg-card border border-border p-6 md:col-span-2">
             <MapPinned className="text-accent" size={22} />

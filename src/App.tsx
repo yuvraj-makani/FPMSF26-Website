@@ -19,10 +19,10 @@ export default function App() {
 const ABOUT_PILLARS = [
   { icon: Droplets, title: "Clean Water", desc: "Advanced membranes for potable water & wastewater treatment." },
   { icon: Zap, title: "Renewable Energy", desc: "Functional materials for harvesting, conversion & storage." },
+  { icon: Layers, title: "Membrane Science", desc: "Next-generation separation & purification technologies." },
   { icon: Leaf, title: "Net Zero Carbon", desc: "Pathways to decarbonised industrial processes." },
   { icon: Recycle, title: "Circular Resources", desc: "Recyclable polymers & closed-loop material systems." },
   { icon: Atom, title: "Functional Polymers", desc: "Designer macromolecules for tomorrow's challenges." },
-  { icon: Layers, title: "Membrane Science", desc: "Next-generation separation & purification technologies." },
   { icon: FlaskConical, title: "Green Hydrogen", desc: "Electrocatalysts & systems for clean H₂ production." },
   { icon: Wind, title: "Environmental Remediation", desc: "Materials engineered to remove emerging contaminants." },
 ];
@@ -67,7 +67,7 @@ function Home() {
           <div className="text-white animate-fade-up">
             <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full glass-dark text-xs font-medium tracking-wide mb-6">
               <span className="h-1.5 w-1.5 rounded-full bg-gold animate-pulse" />
-              18 February – 19 February 2027 · Hybrid
+              18 February – 19 February 2027
             </div>
             <h1 className="font-display text-5xl sm:text-6xl lg:text-7xl font-bold leading-[1.05] tracking-tight">
               FPMSF<span className="text-gold">'</span>27
@@ -81,7 +81,6 @@ function Home() {
 
             <div className="mt-6 flex flex-wrap gap-x-6 gap-y-2 text-sm text-white/80">
               <span className="inline-flex items-center gap-2"><MapPin size={14} /> IIT Roorkee, Saharanpur Campus</span>
-              <span className="inline-flex items-center gap-2"><Globe2 size={14} /> Hybrid Conference</span>
             </div>
 
             <div className="mt-8 flex flex-wrap gap-3">
@@ -210,7 +209,7 @@ function Home() {
       </Section>
 
       {/* COMMITTEES */}
-      <Section id="committees" eyebrow="Committees" title="The people behind FPMSF'26">
+      <Section id="committees" eyebrow="Committees" title="The people behind FPMSF'27">
         <CommitteeTabs />
       </Section>
 
@@ -413,7 +412,7 @@ function Home() {
           <div className="rounded-2xl bg-card border border-border p-6">
             <Phone className="text-accent" size={22} />
             <div className="mt-3 text-xs uppercase tracking-widest text-muted-foreground">Phone</div>
-            <p className="mt-1 text-sm text-foreground">+91-132-271-4000</p>
+            <p className="mt-1 text-sm text-foreground">+91-9925125760</p>
           </div>
           <div className="rounded-2xl bg-card border border-border p-6 md:col-span-2">
             <MapPinned className="text-accent" size={22} />

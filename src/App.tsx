@@ -28,10 +28,10 @@ const ABOUT_PILLARS = [
 ];
 
 const TIMELINE = [
-  { date: "15 Jan 2027", title: "Abstract Submission", desc: "Deadline for abstract submissions" },
-  { date: "20 Jan 2027", title: "Acceptance Notification", desc: "Authors informed of acceptance" },
-  { date: "31 Jan 2027", title: "Registration Closes", desc: "Final date for delegate registration" },
-  { date: "18 Feb – 19 Feb 2027", title: "Conference Days", desc: "Two days of talks, posters & networking" },
+  { date: "31 Jan 2027", title: "Abstract Submission", desc: "Deadline for abstract submissions" },
+  { date: "05 Feb 2027", title: "Acceptance Notification", desc: "Authors informed of acceptance" },
+  { date: "10 Feb 2027", title: "Registration Closes", desc: "Final date for delegate registration" },
+  { date: "25 Feb – 26 Feb 2027", title: "Conference Days", desc: "Two days of talks, posters & networking" },
 ];
 
 const PRICING = [

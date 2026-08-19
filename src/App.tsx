@@ -67,7 +67,7 @@ function Home() {
           <div className="text-white animate-fade-up">
             <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full glass-dark text-xs font-medium tracking-wide mb-6">
               <span className="h-1.5 w-1.5 rounded-full bg-gold animate-pulse" />
-              18 February – 19 February 2027
+              25 February – 26 February 2027
             </div>
             <h1 className="font-display text-5xl sm:text-6xl lg:text-7xl font-bold leading-[1.05] tracking-tight">
               FPMSF<span className="text-gold">'</span>27

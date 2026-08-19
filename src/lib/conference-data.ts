@@ -48,7 +48,7 @@ export const SPEAKERS: { name: string; institution: string }[] = [
   { name: "Prof. Shirsendu De", institution: "IIT Kharagpur" },
   { name: "Shri J. Parikh", institution: "Chem. Proc., Ahmedabad" },
   { name: "Prof. P. Kallem", institution: "Abu Dhabi University, UAE" },
-  { name: "Mr. Ravi Kumar", institution: "ONGC, OECT" },
+  { name: "Dr. Arvind Kumar", institution: "CSIR-CSMCRI, Bhavnagar" },
   { name: "Prof. A. Mudgal", institution: "PDEU, Gandhinagar" },
   { name: "Prof. S. D. Manjare", institution: "BITS, Goa" },
   { name: "Dr. P. K. Labhasetwar", institution: "NEERI, Nagpur" },

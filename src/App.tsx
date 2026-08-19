@@ -87,7 +87,7 @@ function Home() {
               <a href="https://forms.gle/SKP2WSGUtxA5f8Cx7" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 px-5 py-3 rounded-lg bg-accent-gradient text-white text-sm font-semibold shadow-maroon hover:opacity-90 transition">
                 <FileText size={16} /> Submit Abstract
               </a>
-              <a href="#" className="inline-flex items-center gap-2 px-5 py-3 rounded-lg glass-dark text-white text-sm font-semibold hover:bg-white/15 transition">
+              <a href="https://drive.google.com/drive/folders/1mf0cwO1tojG2HVlXrIdtj7E5Rs7i5BQs?usp=sharing" className="inline-flex items-center gap-2 px-5 py-3 rounded-lg glass-dark text-white text-sm font-semibold hover:bg-white/15 transition">
                 <FileDown size={16} /> Brochure
               </a>
             </div>

@@ -87,7 +87,7 @@ function Home() {
               <a href="https://forms.gle/SKP2WSGUtxA5f8Cx7" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 px-5 py-3 rounded-lg bg-accent-gradient text-white text-sm font-semibold shadow-maroon hover:opacity-90 transition">
                 <FileText size={16} /> Submit Abstract
               </a>
-              <a href="https://www.dropbox.com/scl/fi/qk4l04044ngl1o3l6jrvf/Flyer-International-Seminar.pdf?rlkey=cegiqwi0kuymno7avg1gnab1h&dl=0" className="inline-flex items-center gap-2 px-5 py-3 rounded-lg glass-dark text-white text-sm font-semibold hover:bg-white/15 transition">
+              <a href="@/assets/brochure.pdf" className="inline-flex items-center gap-2 px-5 py-3 rounded-lg glass-dark text-white text-sm font-semibold hover:bg-white/15 transition">
                 <FileDown size={16} /> Brochure
               </a>
             </div>

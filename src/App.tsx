@@ -271,8 +271,8 @@ function Home() {
           </div>
           <div className="rounded-2xl bg-hero-gradient text-white p-6 sm:p-8 shadow-elegant">
             <div className="text-xs uppercase tracking-widest text-gold">Submit to</div>
-            <a href="mailto:apmmwe@pe.iitr.ac.in" className="mt-2 block font-display text-xl sm:text-2xl font-bold break-all hover:text-gold transition">
-              apmmwe@pe.iitr.ac.in
+            <a href="mailto:Pass:icfpmsf@gmail.com" className="mt-2 block font-display text-xl sm:text-2xl font-bold break-all hover:text-gold transition">
+              icfpmsf@gmail.com
             </a>
             <p className="mt-4 text-sm text-white/80">
               Submissions close 31 January 2027. Selected abstracts will be considered for oral or poster presentation.
@@ -405,8 +405,8 @@ function Home() {
           <div className="rounded-2xl bg-card border border-border p-6">
             <Mail className="text-accent" size={22} />
             <div className="mt-3 text-xs uppercase tracking-widest text-muted-foreground">Email</div>
-            <a href="mailto:apmmwe@pe.iitr.ac.in" className="block font-display font-semibold text-navy-deep mt-1 break-all hover:text-accent">
-              apmmwe@pe.iitr.ac.in
+            <a href="mailto:icfpmsf@gmail.com" className="block font-display font-semibold text-navy-deep mt-1 break-all hover:text-accent">
+              icfpmsf@gmail.com
             </a>
           </div>
           <div className="rounded-2xl bg-card border border-border p-6">

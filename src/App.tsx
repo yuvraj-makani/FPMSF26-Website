@@ -87,7 +87,7 @@ function Home() {
               <a href="https://forms.gle/SKP2WSGUtxA5f8Cx7" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 px-5 py-3 rounded-lg bg-accent-gradient text-white text-sm font-semibold shadow-maroon hover:opacity-90 transition">
                 <FileText size={16} /> Submit Abstract
               </a>
-              <a href="/Brochure.pdf" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 px-5 py-3 ...">
+              <a href="/Brochure (1).pdf" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 px-5 py-3 ...">
               <FileDown size={16} /> Brochure
               </a>
             </div>
